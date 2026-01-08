@@ -1,0 +1,5 @@
+customtkinter==5.2.1
+opencv-python==4.8.1.78
+Pillow
+pyinstaller
+numpy==1.26.4
