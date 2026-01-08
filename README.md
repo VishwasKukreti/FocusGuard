@@ -2,12 +2,12 @@
 A modern, minimalist timer application that uses your webcam to detect when you're present and automatically pauses when you step away. Maximize focus. Eliminate distractions. Keep glued to your screen, eh? 
 ## Features
 
-✨ **Smart Face Detection** - Pauses automatically when you're not at your desk
-🎯 **Distraction-Free** - Transparent, always-on-top timer that stays out of your way
-⏱️ **Flexible Duration** - Set timers from 1 to 999 minutes
-🎨 **Modern UI** - Clean, professional interface with CustomTkinter
-🔔 **Smart Notifications** - Auto-dismissing alerts for pause/resume events
-📍 **Draggable Timer** - Position the timer wherever you want on screen
+   - ✨ **Smart Face Detection** - Pauses automatically when you're not at your desk
+   - 🎯 **Distraction-Free** - Transparent, always-on-top timer that stays out of your way
+   - ⏱️ **Flexible Duration** - Set timers from 1 to 999 minutes
+   - 🎨 **Modern UI** - Clean, professional interface with CustomTkinter
+   - 🔔 **Smart Notifications** - Auto-dismissing alerts for pause/resume events
+   - 📍 **Draggable Timer** - Position the timer wherever you want on screen
 
 ## Requirements
 
